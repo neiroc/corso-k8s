@@ -4,7 +4,7 @@
 
 ## Day 1 
 
-#### Slides: [PDF](https://drive.google.com/file/d/1xZmu7H8q1I0NvHu9oYBPvJcSx6kaCJ9H/view) 
+#### Slides: [PDF](https://drive.google.com/file/d/1SwmKVbpo2B_X-vyuY04IQZi1pk6sX2m5/view) 
 
 - Docker Engine Installation
 - Running Containers
