@@ -14,7 +14,8 @@
 - Dockerfile
 - Docker Compose
 - Exercises
-- Questions
+
+#### [Quiz](./quiz/docker-questions.md)
 
 ## Day 2
 
