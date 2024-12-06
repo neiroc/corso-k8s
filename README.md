@@ -4,7 +4,7 @@
 
 ## Day 1 
 
-#### Slides: [PDF](https://drive.google.com/file/d/1SwmKVbpo2B_X-vyuY04IQZi1pk6sX2m5/view) 
+#### Slides [PDF](https://drive.google.com/file/d/1SwmKVbpo2B_X-vyuY04IQZi1pk6sX2m5/view) 
 
 - Docker Engine Installation
 - Running Containers
@@ -18,6 +18,8 @@
 #### [Quiz](./quiz/docker-questions.md)
 
 ## Day 2
+
+#### Slides [PDF](https://drive.google.com/file/d/1DkdJAuwksJpQJJEDduoLgo-5rzfbZvuF/view)
 
 - Kubectl installtion
 - Microk8s installation
