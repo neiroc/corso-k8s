@@ -17,15 +17,14 @@ This 5-day course is designed for developers, system administrators, and DevOps 
 
 ### Resources
 
-- 📖 Theory
+📖 Theory
   - [PPTX](https://docs.google.com/presentation/d/1QVfNDESdg1pPEGwK64E6_-YGfHz7Y7J0/edit?usp=drive_link&ouid=112647801962843308202&🕮rtpof=true&sd=true) 
   - [PDF](https://drive.google.com/file/d/1SwmKVbpo2B_X-vyuY04IQZi1pk6sX2m5/view) 
 
-- 🏋️ Practice
+🏋️ Practice
   - [PPTX](https://docs.google.com/presentation/d/1J9z8gfgNyoDTp7htiFGrJJ2ahXTVRsAJ/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true)
   - [PDF](https://drive.google.com/file/d/1SwmKVbpo2B_X-vyuY04IQZi1pk6sX2m5/view) 
-
-### [Quiz](./quiz/docker-questions.md)
+  - [Quiz](./quiz/docker-questions.md)
 
 ## Day 2
 
