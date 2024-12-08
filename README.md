@@ -1,6 +1,8 @@
 # Training Docker / Kubernetes
 
-This 5-day course is designed for developers, system administrators, and DevOps professionals seeking in-depth knowledge of containerization with Docker and orchestration with Kubernetes. Each day includes 4 hours of theory to build foundational knowledge and 4 hours of hands-on labs to solidify practical skills.
+This 5-day course is designed for developers, system administrators and DevOps professionals seeking in-depth knowledge of containerization with Docker and orchestration with Kubernetes. 
+
+Each day includes 4 hours of theory to build foundational knowledge and 4 hours of hands-on labs to solidify practical skills.
 
 ## Day 1 
 
@@ -18,12 +20,11 @@ This 5-day course is designed for developers, system administrators, and DevOps 
 ### Resources
 
 📖 Theory
-  - [PPTX](https://docs.google.com/presentation/d/1QVfNDESdg1pPEGwK64E6_-YGfHz7Y7J0/edit?usp=drive_link&ouid=112647801962843308202&🕮rtpof=true&sd=true) 
-  - [PDF](https://drive.google.com/file/d/1SwmKVbpo2B_X-vyuY04IQZi1pk6sX2m5/view) 
+  - [Slides](https://docs.google.com/presentation/d/1QVfNDESdg1pPEGwK64E6_-YGfHz7Y7J0/edit?usp=drive_link&ouid=112647801962843308202&🕮rtpof=true&sd=true) 
+
 
 🏋️ Practice
-  - [PPTX](https://docs.google.com/presentation/d/1J9z8gfgNyoDTp7htiFGrJJ2ahXTVRsAJ/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true)
-  - [PDF](https://drive.google.com/file/d/1SwmKVbpo2B_X-vyuY04IQZi1pk6sX2m5/view) 
+  - [Slides](https://docs.google.com/presentation/d/1J9z8gfgNyoDTp7htiFGrJJ2ahXTVRsAJ/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true)
   - [Quiz](./quiz/docker-questions.md)
 
 ## Day 2
@@ -41,13 +42,10 @@ This 5-day course is designed for developers, system administrators, and DevOps 
 ### Resources
 
 📖 Theory
-  - [PPTX](https://docs.google.com/presentation/d/1KjGtS7wdBNrE-5YsFXGMfg7wlH9JmKxJ/edit?usp=drive_link&ouid=112647801962843308202&rtpof=true&sd=true) 
-  - [PDF](https://drive.google.com/file/d/1nMZFZignSInP32miheU66mtwu7R4QZs_/view?usp=drive_link) 
+  - [Slides](https://docs.google.com/presentation/d/1KjGtS7wdBNrE-5YsFXGMfg7wlH9JmKxJ/edit?usp=drive_link&ouid=112647801962843308202&rtpof=true&sd=true) 
 
 🏋️ Practice
-  - [PPTX](https://docs.google.com/presentation/d/1J9z8gfgNyoDTp7htiFGrJJ2ahXTVRsAJ/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true)
-  - [PDF](https://drive.google.com/file/d/1DkdJAuwksJpQJJEDduoLgo-5rzfbZvuF/view?usp=drive_link) 
-
+  - [Slides](https://docs.google.com/presentation/d/1J9z8gfgNyoDTp7htiFGrJJ2ahXTVRsAJ/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true)
 
 ## Day 3
 
