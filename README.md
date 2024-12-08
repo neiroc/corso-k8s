@@ -40,11 +40,11 @@ This 5-day course is designed for developers, system administrators, and DevOps 
 
 ### Resources
 
-- 📖 Theory
+📖 Theory
   - [PPTX](https://docs.google.com/presentation/d/1KjGtS7wdBNrE-5YsFXGMfg7wlH9JmKxJ/edit?usp=drive_link&ouid=112647801962843308202&rtpof=true&sd=true) 
   - [PDF](https://drive.google.com/file/d/1nMZFZignSInP32miheU66mtwu7R4QZs_/view?usp=drive_link) 
 
-- 🏋️ Practice
+🏋️ Practice
   - [PPTX](https://docs.google.com/presentation/d/1J9z8gfgNyoDTp7htiFGrJJ2ahXTVRsAJ/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true)
   - [PDF](https://drive.google.com/file/d/1DkdJAuwksJpQJJEDduoLgo-5rzfbZvuF/view?usp=drive_link) 
 
