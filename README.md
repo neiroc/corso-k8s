@@ -31,7 +31,7 @@ Each day includes 4 hours of theory to build foundational knowledge and 4 hours 
 
 ### Table of Contents
 
-- Kubectl installtion
+- Kubectl installation
 - Microk8s installation
 - YAML 
 - Running Pods
