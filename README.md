@@ -45,14 +45,22 @@ Each day includes 4 hours of theory to build foundational knowledge and 4 hours 
   - [Slides](https://docs.google.com/presentation/d/18NNoLjxf5CnN0lFF3xj8rvppkeXmqvfr/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true) 
 
 🏋️ Practice
-  - [Slides](https://docs.google.com/presentation/d/1J9z8gfgNyoDTp7htiFGrJJ2ahXTVRsAJ/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true)
+  - [Slides](https://docs.google.com/presentation/d/17eAgouUO88xqPBs89GxQv6kmpyCLprmP/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true)
 
 ## Day 3
 
+- ReplicaSet
+- Rolling updates
 - Stateless application
 - Stateful application
 - Health Checks
 - Exercises
+
+📖 Theory
+  - [Slides](https://docs.google.com/presentation/d/10GPGiEE7W0e6iNZEptvz8amUAY6yWFlQ/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true) 
+
+🏋️ Practice
+  - [Slides](https://docs.google.com/presentation/d/1mSx3Y339BcKDmPWO0LAlKfprta04Cz_b/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true)
 
 ## Day 4
 
