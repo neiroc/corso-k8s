@@ -37,6 +37,7 @@ Each day includes 4 hours of theory to build foundational knowledge and 4 hours 
 - Running Pods
 - How to expose pods
 - Deployments
+- PersistentVolume & PersistenVolumeClaim
 - Exercises
 
 ### Resources
