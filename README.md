@@ -107,4 +107,4 @@ Each day includes 4 hours of theory to build foundational knowledge and 4 hours 
 - [Udemy + KodeKloud CKA Course](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/?couponCode=ACCAGE0923) (paid 15$)
 
 
-### GitHub repository: https://github.com/neiroc/training-k8s
+## [GitHub Repository](https://github.com/neiroc/training-k8s)
