@@ -20,7 +20,7 @@ Each day includes 4 hours of theory to build foundational knowledge and 4 hours 
 ### Resources
 
 📖 Theory
-  - [Slides](https://docs.google.com/presentation/d/1QVfNDESdg1pPEGwK64E6_-YGfHz7Y7J0/edit?usp=drive_link&ouid=112647801962843308202&🕮rtpof=true&sd=true) 
+  - [Slides](https://docs.google.com/presentation/d/1QVfNDESdg1pPEGwK64E6_-YGfHz7Y7J0/edit?usp=drive_link&ouid=112647801962843308202&rtpof=true&sd=true) 
 
 
 🏋️ Practice
