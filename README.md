@@ -69,7 +69,7 @@ Each day includes 4 hours of theory to build foundational knowledge and 4 hours 
 - Namespaces
 - DNS
 - Network Policy
-- ReplicaSet, Scaling
+- AutoScaling & Rollout Strategy
 - Rollout, Rollback
 - ConfigMaps, Secrets
 
