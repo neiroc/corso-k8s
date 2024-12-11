@@ -24,7 +24,7 @@ Each day includes 4 hours of theory to build foundational knowledge and 4 hours 
 
 
 🏋️ Practice
-  - [Slides](https://docs.google.com/presentation/d/1J9z8gfgNyoDTp7htiFGrJJ2ahXTVRsAJ/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true)
+  - [Slides](https://docs.google.com/presentation/d/1Vl0h5rAe8MJ_f2Fni-92hTGVXEWC5jD8/edit?usp=drive_link&ouid=112647801962843308202&rtpof=true&sd=true)
   - [Quiz](./quiz/docker-questions.md)
 
 ## Day 2
@@ -93,7 +93,6 @@ Each day includes 4 hours of theory to build foundational knowledge and 4 hours 
 - [Realtime Cliplboard](https://clipboard.strebel.xyz/training-k8s)
 - [Wheel of Names](https://wheelofnames.com/)
 
-
 ## 🔗 External Resources
 
 ### Docker
@@ -110,6 +109,5 @@ Each day includes 4 hours of theory to build foundational knowledge and 4 hours 
 - [Killercoda CKA](https://killercoda.com/cka)
 - [Labex Kubernetes](https://labex.io/skilltrees/kubernetes)
 - [Udemy + KodeKloud CKA Course](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/?couponCode=ACCAGE0923) (paid 15$)
-
 
 ## [GitHub Repository](https://github.com/neiroc/training-k8s)
