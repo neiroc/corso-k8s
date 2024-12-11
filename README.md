@@ -73,6 +73,11 @@ Each day includes 4 hours of theory to build foundational knowledge and 4 hours 
 - Rollout, Rollback
 - ConfigMaps, Secrets
 
+📖 Theory
+  - [Slides](https://docs.google.com/presentation/d/10uP9jTez7sw89x-mUfJvR3c3KKELEkid/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true) 
+
+🏋️ Practice
+  - [Slides](https://docs.google.com/presentation/d/1qkTjG7WzmYIzmMbUx1IkdZdyakaTQLFJ/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true)
 
 ## Day 5
 
