@@ -92,8 +92,7 @@ Each day includes 4 hours of theory to build foundational knowledge and 4 hours 
   - [Slides](https://docs.google.com/presentation/d/1drKCGr5pMbFlET0lTnUcRQvIiR2kCR8q/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true) 
 
 🏋️ Practice
-  - 
-
+  - [Slides](https://docs.google.com/presentation/d/12RPE3CwOD41dMjzBuTnHRmEzihSOsi5D/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true)
 
 ## Training Support Tools
 
@@ -118,3 +117,4 @@ Each day includes 4 hours of theory to build foundational knowledge and 4 hours 
 - [Udemy + KodeKloud CKA Course](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/?couponCode=ACCAGE0923) (paid 15$)
 
 ## [GitHub Repository](https://github.com/neiroc/training-k8s)
+
