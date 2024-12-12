@@ -86,7 +86,14 @@ Each day includes 4 hours of theory to build foundational knowledge and 4 hours 
 - Helm installation
 - Helm Exercices
 - Operator
-- GitHub Action to deploy resources
+- GitLab/GitHub CICD to deploy resources
+
+📖 Theory
+  - [Slides](https://docs.google.com/presentation/d/1drKCGr5pMbFlET0lTnUcRQvIiR2kCR8q/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true) 
+
+🏋️ Practice
+  - 
+
 
 ## Training Support Tools
 
